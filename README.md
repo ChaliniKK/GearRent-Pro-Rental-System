@@ -37,18 +37,18 @@ A comprehensive multi-branch equipment rental management system developed for th
 4. Application window will open
 
 ## Login Credentials
-- **Admin Access**
+**Admin Access**
 - Username: admin
 - Password: admin123
 - Permissions: Full system access
 
-- **Branch Manager**
+**Branch Manager**
 - Username: manager1
 - Password: manager123
 - Branch: Panadura Branch
 - Permissions: Manage their branch only
 
-- **Staff**
+**Staff**
 - Username: staff1
 - Password: staff123
 - Branch: Panadura Branch
