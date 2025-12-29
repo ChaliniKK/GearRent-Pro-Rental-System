@@ -1,9 +1,9 @@
 # GearRent Pro - Equipment Rental Management System
 
-## Name - M.A.Chalini Kaushalya
-## Batch - 112
-## Course - Comprehensive Master Java Developer (CMJD)
-## Institute - Institute of Software Engineering
+Name - M.A.Chalini Kaushalya
+Batch - 112
+Course - Comprehensive Master Java Developer (CMJD)
+Institute - Institute of Software Engineering
 
 ## Project Description
 A comprehensive multi-branch equipment rental management system developed for the Comprehensive Master Java Developer (CMJD) coursework. The system manages equipment inventory, customer reservations, rentals, returns, and generates reports across multiple branches.
